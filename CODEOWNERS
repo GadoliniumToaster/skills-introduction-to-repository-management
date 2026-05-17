@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @GadoliniumToaster
+/src/backend/database.py      @GadoliniumToaster
+/src/backend/routers/auth.py  @GadoliniumToaster
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @GadoliniumToaster
